@@ -1,0 +1,4 @@
+e/12/078 pass1 std 
+admin pass2 admin 
+staff pass3 stf 
+99x pass4 comp 
